@@ -20,9 +20,6 @@ public class Practice {
 			n/=10;
 			x++;
 		}
-		
 		System.out.println("그 수는 "+x+"자리입니다.");
-		
 	}
-
 }
